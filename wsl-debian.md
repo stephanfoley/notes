@@ -3,15 +3,15 @@
 Here’s a curated list of some of the best open-source web apps you can install via Debian or directly from GitHub, covering productivity, development, media, and self-hosting:
 
 🧰 Developer & Productivity Tools
-App
-	Description
-	Install Method
-NocoBase
-	No-code database builder for internal tools and dashboards
-	GitHub: NocoBase NocoBase
-Joplin Server
-	Self-hosted note-taking app with sync and encryption
-	GitHub: joplin/server
+- App
+	- Description
+	- Install Method
+- NocoBase
+	- No-code database builder for internal tools and dashboards
+	- GitHub: NocoBase NocoBase
+- Joplin Server
+	- Self-hosted note-taking app with sync and encryption
+	- GitHub: joplin/server
 Outline
 	Wiki and knowledge base for teams
 	GitHub: outline/outline
