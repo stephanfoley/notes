@@ -44,23 +44,21 @@ Here’s a curated list of some of the best open-source web apps you can install
 	- Debian: via Snap or GitHub
 
 🛠️ System & Admin Tools
-App
-	Description
-	Install Method
-Portainer
-	Web UI for managing Docker containers
-	GitHub: portainer/portainer
-Netdata
-	Real-time performance monitoring dashboard
-	Debian: apt install netdata
-Pi-hole
-	Network-wide ad blocker with web interface
-	GitHub: pi-hole/pi-hole
+
+- Portainer
+	- Web UI for managing Docker containers
+	- GitHub: portainer/portainer
+- Netdata
+	- Real-time performance monitoring dashboard
+	- Debian: apt install netdata
+- Pi-hole
+	- Network-wide ad blocker with web interface
+	- GitHub: pi-hole/pi-hole
 
 🚀 Bonus: GitHub Collections
 
-    Awesome Linux Apps — Huge list of apps for Linux distros Github
-    Deb-Get — Simplifies installing third-party .deb apps on Debian Tom's Hardware
+    - Awesome Linux Apps — Huge list of apps for Linux distros Github
+    - Deb-Get — Simplifies installing third-party .deb apps on Debian Tom's Hardware
 
 
 Would you like help installing any of these on your Debian system or setting up a self-hosted stack?
